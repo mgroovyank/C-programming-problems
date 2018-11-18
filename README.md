@@ -383,11 +383,6 @@ a = p( 1 + r / q )^^nq   //where ^^ is power
 
 Write a program to read 10 sets of p, r, n & q and calculate the corresponding as.
 
----------------------------------------------------------------------------------------------------------------------------------------------
-
----------------------------------------------------------------------------------------------------------------------------------------------
-
-UP TO WEEK 8: Must perform Questions 105-131. Please mantain softcopy of your codes and prepare a Lab Record consisting these program by hand(no print out). Also prepare flow chart for the same in lab record. 
 // ARRAYs, FUNCTION, POINTERS
 ---------------------------------------------------------------------------------------------------------------------------------------------
 105. Write a program to swap two numbers using bitwise operators.
@@ -501,7 +496,6 @@ Note that according to the Gregorian calendar 01/01/1900 was Monday. With this a
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-UP TO WEEK 9: Must perform Questions 140-165. Please mantain softcopy of your codes and prepare a Lab Record consisting these program by hand(no print out). Also prepare flow chart for the same in lab record. 
 //STRINGS
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -574,7 +568,6 @@ char *s[ ] = {
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-UP TO WEEK 10: Must perform Questions 166-173. Please mantain softcopy of your codes and prepare a Lab Record consisting these program by hand(no print out). Also prepare flow chart for the same in lab record. 
 //STRUCTURE 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
