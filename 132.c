@@ -1,0 +1,61 @@
+#include<stdio.h>
+main()
+{
+    int n[3],i,j;
+    for(i=0;i<3;i++)
+    {
+        scanf("%d",&n[i]);
+    }
+    for(j=0;j<3;j++)
+    {
+        if(n[j]==1)
+        {
+            printf("one");
+            continue;
+            }
+          if(n[j]==2)
+           {
+              printf("two");
+              continue;
+           }
+         if(n[j]==3)
+           {
+             printf("three");
+             continue;
+           }
+          if(n[j]==4)
+            {
+                printf("four");
+                continue;
+                }
+          if(n[j]==5)
+            {
+                printf("five");
+                continue;
+                }
+          if(n[j]==6)
+            {
+                printf("six");
+                continue;
+                }
+         if(n[j]==7)
+           {
+              printf("seven");
+              continue;
+           }
+          if(n[j]==8)
+            {
+                printf("eight");
+                continue;
+                }
+         if(n[j]==9)
+            {
+                printf("nine");
+                continue;
+                }
+
+
+
+    }
+
+}

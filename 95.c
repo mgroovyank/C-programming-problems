@@ -1,0 +1,21 @@
+#include<stdio.h>
+main()
+{
+    int i,j,k=1,n=5,m=0;
+    for(i=0;i<5;i++,printf("\n"),n--)
+    {
+        for(j=0;j<n;j++)
+        {
+            if(k!=10)
+                {
+                    printf("%d",k);
+                    k++;
+                }
+            else
+               {
+                 printf("%d",m);
+                 m++;
+               }
+        }
+    }
+}
